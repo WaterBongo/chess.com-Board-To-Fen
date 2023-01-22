@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 # Chess.com Board Recognizer
 
 Uses a convolutional neural network to recognize the positions of pieces and translate it into FEN format.
