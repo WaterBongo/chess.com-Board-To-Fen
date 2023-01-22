@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 # Chess.com Board Recognizer
 
 Uses a convolutional neural network to recognize the positions of pieces and translate it into FEN format.
@@ -61,4 +59,4 @@ Once you have everything setup, run `recognize.py` with the path of the image yo
 ## Acknowledgements
 
 * Original inspiration from [tensorflow_chessbot](https://github.com/linrock/chessboard-recognizer) by [Linrock](https://github.com/linrock/)
-* Neural network architecture from https://www.tensorflow.org/tutorials/images/cnn
+* Neural network architecture from [Tensorflow CNN](https://www.tensorflow.org/tutorials/images/cnn)
