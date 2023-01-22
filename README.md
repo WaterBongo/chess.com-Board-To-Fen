@@ -5,3 +5,7 @@ Uses a convolutional neural network to recognize the positions of pieces and tra
 If you have an image of a chess.com board as chessboard.png
 
 ![Example ChessBoard](./readme/chessboard.png)
+
+Run recognizer.py
+
+`python3 recognizer.py chessboard.png`
