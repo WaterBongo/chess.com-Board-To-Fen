@@ -103,4 +103,3 @@ if __name__ == '__main__':
         for chessboard_image_path in sorted(glob(args.image_path)):
             resize(chessboard_image_path)
             print(predict_chessboard(chessboard_image_path, args))
-
