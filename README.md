@@ -42,4 +42,10 @@ Accuracy `100%`
 
 ## Getting Started
 
-To use my chessboard recognizer, you will need ATLEAST [Python3](https://www.python.org/downloads/) And [Tensorflow 2](https://www.tensorflow.org/)
+To use my chessboard recognizer, you will need **ATLEAST** [Python3](https://www.python.org/downloads/) And [Tensorflow 2](https://www.tensorflow.org/)
+
+Set up your enviroment, and then install all required packages
+```pip3 install -r requirements.txt```
+
+To use the recognizer, you will need to have a neural network model.
+Lucky For you, I've already provided one inside of `nn`
