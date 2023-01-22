@@ -31,6 +31,7 @@ Confidence `97.75%`
 Accuracy `100%`
 
 ### Randomly generated 16 piece game
+
 ![example2](./readme/example2.png)
 
 Predicted `8/p1P5/6q1/B1K2B2/P1P1p3/1PQ5/1r4pk/n3N3`
@@ -38,3 +39,7 @@ Predicted `8/p1P5/6q1/B1K2B2/P1P1p3/1PQ5/1r4pk/n3N3`
 Confidence `99.82%`
 
 Accuracy `100%`
+
+## Getting Started
+
+To use my chessboard recognizer, you will need ATLEAST [Python3](https://www.python.org/downloads/) And [Tensorflow 2](https://www.tensorflow.org/)
