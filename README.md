@@ -42,7 +42,7 @@ Accuracy `100%`
 
 ## Getting Started
 
-To use my chessboard recognizer, you will need **ATLEAST** [Python3](https://www.python.org/downloads/) And [Tensorflow 2](https://www.tensorflow.org/)
+To use the chessboard recognizer, you will need **ATLEAST** [Python3](https://www.python.org/downloads/) And [Tensorflow 2](https://www.tensorflow.org/)
 
 Set up your enviroment, and then install all required packages
 
@@ -58,5 +58,5 @@ Once you have everything setup, run `recognize.py` with the path of the image yo
 
 ## Acknowledgements
 
-* Original inspiration from [tensorflow_chessbot](https://github.com/linrock/chessboard-recognizer) by [Elucidation](https://github.com/linrock/)
+* Original inspiration from [tensorflow_chessbot](https://github.com/linrock/chessboard-recognizer) by [Linrock](https://github.com/linrock/)
 * Neural network architecture from https://www.tensorflow.org/tutorials/images/cnn
