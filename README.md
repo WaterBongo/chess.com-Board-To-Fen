@@ -45,7 +45,13 @@ Accuracy `100%`
 To use my chessboard recognizer, you will need **ATLEAST** [Python3](https://www.python.org/downloads/) And [Tensorflow 2](https://www.tensorflow.org/)
 
 Set up your enviroment, and then install all required packages
+
 ```pip3 install -r requirements.txt```
 
 To use the recognizer, you will need to have a neural network model.
-Lucky For you, I've already provided one inside of `nn`
+
+Lucky For you, I've already provided one inside of the folder `nn`
+
+Once you have everything setup, run `recognize.py` with the path of the image you want too identify
+
+`python3 recognize.py chessboard.png`
