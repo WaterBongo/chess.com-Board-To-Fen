@@ -20,12 +20,21 @@ The Computer will return a link to view the board, accuracy and the FEN format
 
 ## Sample results
 
-Randomly generated 32 piece game
+### Randomly generated 32 piece game
 
 ![example1](./readme/example1.png)
 
 Predicted `2r5/PP1K1b1Q/2N1B1n1/1pkPpppp/Rp1b2P1/2PPR1N1/1PpP3p/1qr3Bn`
 
 Confidence `97.75%`
+
+Accuracy `100%`
+
+### Randomly generated 16 piece game
+![example2](./readme/example2.png)
+
+Predicted `8/p1P5/6q1/B1K2B2/P1P1p3/1PQ5/1r4pk/n3N3`
+
+Confidence `99.82%`
 
 Accuracy `100%`
