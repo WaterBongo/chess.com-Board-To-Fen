@@ -66,7 +66,7 @@ def predict_chessboard(chessboard_img_path, options={}):
     )
     if not options.quiet:
         confidence = reduce(lambda x,y: x*y, [p[1] for p in predictions])
-        print("Confidence: {}".format(confidence))
+        print("Confidence: {}%".format(round(confidence*100,2)))
     # if options.debug:
     real_fen = chessboard_image_path.replace('-','/').split('.')[0]
     #compare real_fen to predicted_fen
